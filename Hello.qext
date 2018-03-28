@@ -1,0 +1,8 @@
+{
+	"name" : "My Skeleton Container",
+	"description" : "Harvey's first - Simple Hello World extension.",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "0.1",
+	"author": "Qlik"
+}
