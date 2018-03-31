@@ -1,6 +1,6 @@
 {
 	"name" : "My Skeleton Container",
-	"description" : "Harvey's first - Simple Hello World extension.",
+	"description" : "Skeleton Description",
 	"icon" : "extension",
 	"type" : "visualization",
 	"version": "0.1",
