@@ -11,7 +11,7 @@ function ( $ ) {
         paint: function ( $element, layout ) {
 
             var $helloWorld = $( document.createElement( 'div' ) );
-            $helloWorld.html( 'Hello World from the extension "SimpleHelloWorld"<br/>' );
+            $helloWorld.html( 'Hello World from the start of your first extension<br/>' );
             $element.append( $helloWorld );
 
         }
